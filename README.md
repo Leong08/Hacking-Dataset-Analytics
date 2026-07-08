@@ -25,8 +25,8 @@ This project focuses on analyzing historical ransomware attack data to uncover p
 3. Set the working directory in the R script to point to the AssignmentDatasets folder:
 
 4. R: 
-    setwd("YOUR_PATH_HERE/AssignmentDatasets")
-    Run the provided analysis.R script to generate the statistical summaries, plots, and hypothesis test results.
+    - setwd("YOUR_PATH_HERE/AssignmentDatasets")
+    - Run the provided analysis.R script to generate the statistical summaries, plots, and hypothesis test results.
 
 ## Key Findings ##
 - Downtime Correlation: Our analysis indicates that longer system unavailability generally corresponds to higher ransom demands, suggesting that attackers leverage the urgency of prolonged downtime to extract larger payments.
